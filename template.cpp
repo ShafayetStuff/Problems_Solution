@@ -6,5 +6,10 @@ using namespace std;
 #define str string
 /*macroend*/
 int main(){
-    
+    int a,b,t;
+    cin>>t;
+    while(t--){
+        cin>>a>>b;
+        
+    }
 }
